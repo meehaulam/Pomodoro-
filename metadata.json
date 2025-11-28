@@ -1,0 +1,5 @@
+{
+  "name": "Pomodoro",
+  "description": "A modern, customizable Pomodoro timer with session tracking and smart notifications to boost your productivity.",
+  "requestFramePermissions": []
+}
